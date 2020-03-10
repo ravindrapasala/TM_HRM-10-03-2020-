@@ -11,5 +11,12 @@ public class Login_Application {
 	{
 		System.out.println("browser  is launching");
 	}
+	
+     @Test
+	
+	public void login1()
+	{
+		System.out.println("browser1  is launching");
+	}
 
 }
